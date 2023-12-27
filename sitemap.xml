@@ -6,12 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Damensolo/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Eisenbahn/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,6 +37,11 @@
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Spot-Turn/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Jive/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -66,12 +81,102 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Salsa/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Salsa/Grundschritt/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Samba/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Samba/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Foxtrott/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Foxtrott/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Langsamer%20Walzer/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Langsamer%20Walzer/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Quickstep/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Quickstep/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Slowfox/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Slowfox/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Tango%20%28Europ%C3%A4isch%29/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Tango%20%28Europ%C3%A4isch%29/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Wiener%20Walzer/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Standard/Wiener%20Walzer/Grundschritt/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Weitere%20T%C3%A4nze/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Weitere%20T%C3%A4nze/Tango%20Argentino/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Weitere%20T%C3%A4nze/Tango%20Argentino/Grundschritt/</loc>
          <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
