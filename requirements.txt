@@ -6,3 +6,4 @@ mkdocs-minify-plugin
 git+https://github.com/Andre601/mkdocs-pagenav-generator
 pillow
 cairosvg
+mkdocs-git-committers-plugin-2
