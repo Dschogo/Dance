@@ -2,62 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dschogo.github.io/Dance/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Damensolo/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Grundschritt/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Promenade/</loc>
+         <lastmod>2023-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Cha%20Cha%20Cha/Spin/</loc>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Jive/Grundschritt/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Rumba/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Rumba/Damensolo/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Rumba/Grundschritt/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Salsa/Grundschritt/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/Latein-amerikanisch/Samba/Grundschritt/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/develop/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dschogo.github.io/Dance/develop/CCC/</loc>
-         <lastmod>2023-12-26</lastmod>
+         <lastmod>2023-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
