@@ -1,7 +1,9 @@
 site_name: Dance
 repo_name: dschogo/Dance
 site_url: https://dschogo.github.io/Dance/
-
+repo_url: https://github.com/Dschogo/Dance
+edit_uri: edit/master/docs/
+site_author: Dschogo
 site_description: Wiki für Tanzfiguren
 
 theme:
@@ -21,7 +23,7 @@ theme:
         - search.share
         - search.highlight
         - search.suggest
-
+        - content.action.edit
     icon:
         logo: material/dance-ballroom
     palette:
@@ -112,6 +114,9 @@ extra:
     social:
         - icon: fontawesome/brands/github
           link: https://github.com/Dschogo
+    status:
+          new: Recently added
+          deprecated: Deprecated
     analytics:
         provider: google
         property: G-H65N1ZZBBE
