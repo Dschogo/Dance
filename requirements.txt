@@ -1,0 +1,8 @@
+mkdocs-material 
+mkdocs-glightbox
+mkdocs-git-revision-date-localized-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-minify-plugin
+git+https://github.com/Andre601/mkdocs-pagenav-generator
+pillow
+cairosvg

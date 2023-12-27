@@ -1,0 +1,132 @@
+site_name: Dance
+repo_name: dschogo/Dance
+site_url: https://dschogo.github.io/Dance/
+
+site_description: Wiki für Tanzfiguren
+
+theme:
+    name: material
+    features:
+        - toc.follow
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.tabs
+        - navigation.indexes
+        - navigation.tracking
+        - navigation.top
+        #   - navigation.expand
+        #   - navigation.sections
+        - navigation.footer
+        - navigation.path
+        - search.share
+        - search.highlight
+        - search.suggest
+
+    icon:
+        logo: material/dance-ballroom
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              icon: material/lightbulb
+              name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: purple
+          toggle:
+              icon: material/lightbulb-outline
+              name: Switch to light mode
+    font:
+        text: Roboto
+        code: Roboto Mono
+    custom_dir: overrides
+    language: de
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - toc:
+          permalink: "#"
+    - pymdownx.arithmatex:
+          generic: true
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.snippets
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.tilde
+    - tables
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+    - social:
+          cards: true
+          enabled: !ENV [CI, false]
+
+    - search
+    - awesome-pages:
+          filename: .pages.yml
+    #     - pagenav-generator
+    - git-revision-date-localized:
+          enable_creation_date: true
+          type: timeago
+          enabled: !ENV [CI, false]
+
+    - glightbox:
+          touchNavigation: true
+          loop: false
+          effect: zoom
+          width: 100%
+          height: 100%
+          zoomable: true
+          draggable: false
+          auto_caption: false
+          caption_position: bottom
+    - minify:
+          minify_html: !ENV [CI, false]
+#     - gen-files:
+#           scripts:
+#               - gen_pages.py
+
+extra_css:
+    - extra.css
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/Dschogo
+    analytics:
+        provider: google
+        property: G-H65N1ZZBBE
+        feedback:
+            title: Was this page helpful?
+            ratings:
+                - icon: material/emoticon-happy-outline
+                  name: This page was helpful
+                  data: 1
+                  note: >-
+                      Thanks for your feedback!
+                - icon: material/emoticon-sad-outline
+                  name: This page could be improved
+                  data: 0
+                  note: >-
+                      Thanks for your feedback!
+
+copyright: Copyright &copy; 2024 Dschogo

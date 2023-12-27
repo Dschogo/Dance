@@ -1,0 +1,39 @@
+/* .md-nav__item--section > .md-nav__link[for] {
+    color: var(--md-default-fg-color)!important;
+    font-size: 1.2em!important;
+} */
+
+/* janky and can break with any update */
+
+.md-content,
+.md-content__inner {
+    /* fade in animation */
+    animation: fadeIn 0.35s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* TODO remove when titles without emoji */
+.md-ellipsis > svg {
+    width: 11px;
+}
+
+@keyframes details-show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+details[open] > *:not(summary) {
+    animation: details-show 150ms ease-in-out;
+}

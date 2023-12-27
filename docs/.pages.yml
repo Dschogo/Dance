@@ -1,0 +1,5 @@
+nav:
+  - index.md
+  - Latein-amerikanisch
+  - Standard
+  - ... | regex=^(?!develop).+$

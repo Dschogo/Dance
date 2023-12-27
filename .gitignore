@@ -1,0 +1,6 @@
+.venv/*
+.env
+.cache/*
+site/*
+Dance.code-workspace
+docs/Dance*
