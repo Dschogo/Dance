@@ -81,7 +81,10 @@ plugins:
     - social:
           cards: true
           enabled: !ENV [CI, false]
-
+    - git-committers:
+          repository: dschogo/Dance
+          branch: main
+          enabled: !ENV [CI, false]
     - search
     - awesome-pages:
           filename: .pages.yml
@@ -115,8 +118,8 @@ extra:
         - icon: fontawesome/brands/github
           link: https://github.com/Dschogo
     status:
-          new: Recently added
-          deprecated: Deprecated
+        new: Recently added
+        deprecated: Deprecated
     analytics:
         provider: google
         property: G-H65N1ZZBBE
