@@ -19,3 +19,21 @@
         opacity: 1;
     }
 }
+
+/* TODO remove when titles without emoji */
+.md-ellipsis > svg {
+    width: 11px;
+}
+
+@keyframes details-show {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+details[open] > *:not(summary) {
+    animation: details-show 150ms ease-in-out;
+}
