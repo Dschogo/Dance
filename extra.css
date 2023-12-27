@@ -4,3 +4,18 @@
 } */
 
 /* janky and can break with any update */
+
+.md-content,
+.md-content__inner {
+    /* fade in animation */
+    animation: fadeIn 0.35s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
