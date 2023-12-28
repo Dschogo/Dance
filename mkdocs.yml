@@ -81,17 +81,14 @@ plugins:
     - social:
           cards: true
           enabled: !ENV [CI, false]
-          
     - git-committers:
           repository: dschogo/Dance
           branch: main
           enabled: !ENV [CI, false]
-
     - search
     - awesome-pages:
           filename: .pages.yml
-#     - pagenav-generator
-
+    #     - pagenav-generator
     - git-revision-date-localized:
           enable_creation_date: true
           type: timeago
@@ -107,7 +104,6 @@ plugins:
           draggable: false
           auto_caption: false
           caption_position: bottom
-
     - minify:
           minify_html: !ENV [CI, false]
 #     - gen-files:
