@@ -6,6 +6,10 @@ edit_uri: edit/main/docs/
 site_author: Dschogo
 site_description: Wiki für Tanzfiguren
 
+watch:
+  - overrides
+  - docs
+
 theme:
     name: material
     features:
