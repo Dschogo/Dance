@@ -14,7 +14,7 @@ Auch türkisches Handtuch genannt.
     - Nun ergibt sich, dass die Frau nach jedem Chasse die Seite des Mannes wechelst
 - Normaler Grundschritt, immer nach vorne wiegend.
 
-## Ausgang
+## Ausgänge
 
 - Nach einer Wiege auf der rechten Seite, lässt der Mann die linke Hand der Frau los und führt diese, nach dem Chasse, rechts um sich herum (während der linken Wiege).
 - Tanzhaltung wird wieder einnehmen und es folgt ein Chasse nach rechts (für sie wieder nach links)

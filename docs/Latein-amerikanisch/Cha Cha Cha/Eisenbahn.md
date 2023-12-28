@@ -8,7 +8,7 @@
 - Nun folgen 3 Cha-Cha-Cha Schritte nach vorne
 - Danach kommt noch eine vorwärts Wiege
 
-## Ausgang
+## Ausgänge
 
 - [Damen Solo](Damensolo.md)
 - [Promenade](Promenade.md) - nach links, nach dem Cha-Cha-Cha

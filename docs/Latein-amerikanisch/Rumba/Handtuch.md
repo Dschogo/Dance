@@ -17,7 +17,7 @@ Auch türkisches Handtuch genannt.
     - Nun ergibt sich, dass die Frau nach jedem langen seitwärts Schritt die Seite des Mannes wechelst
 - Normaler Grundschritt, immer nach vorne wiegend.
 
-## Ausgang
+## Ausgänge
 
 - Nach einer Wiege auf der rechten Seite, lässt der Mann die linke Hand der Frau los und führt diese, nach dem langen seitwärts Schritt, rechts um sich herum (während der linken Wiege).
 - Tanzhaltung wird wieder einnehmen und es folgt ein langer seitwärts Schritt nach rechts (für sie wieder nach links)

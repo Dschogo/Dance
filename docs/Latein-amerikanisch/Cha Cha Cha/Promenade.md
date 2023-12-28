@@ -8,7 +8,7 @@
 - Für die Promenade in die andere Richtung wird nun die linke Hand losgelassen und dafür die rechte Hand durch die Mitte gezogen
 - Die Wiege Schritte gehen wieder gemeinsam nach vorne
 
-## Ausgang
+## Ausgänge
 
 - [Grundschritt](Grundschritt.md) - nach einer Promenade einfach wieder Tanzhaltung schließen/einnehmen
 - [Damensolo](Damensolo.md) - nach der Promenade nach rechts
@@ -21,4 +21,4 @@
 - Während einer Promenade zieht der Mann die inneren Hände nach vorne um statt einer Wiege weitere Cha-Cha-Cha nach vorne zu tanzen.
 - Nach der "gezogenen" Promenade folgt ein geschlossener Cha-Cha-Cha zur Seite, die zuvor freien Hände sind dabei Handfläche zu Handfläche
 
-Nun sind wir wieder in der Ausgangsposition und können alle [Ausgänge](#ausgang) einer Promenade nutzen.
+Nun sind wir wieder in der Ausgängesposition und können alle [Ausgänge](#Ausgänge) einer Promenade nutzen.

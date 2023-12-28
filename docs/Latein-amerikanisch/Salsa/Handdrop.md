@@ -8,7 +8,7 @@
 - Frau lässt ihre Hand "droppen" von seiner linken zu seiner Rechten
 - Frau nach vorne holen (Ähnlihc wie Cross Body Lead)
 
-## Ausgang
+## Ausgänge
 
 - In Grundschritt wie oben
 - In [Presentation](Presentation.md)

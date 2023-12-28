@@ -3,11 +3,11 @@
 ## Schritte
 
 - [Cross Body Lead](Cross%20Body%20Lead.md)
-- Anstatt die Frau auf die Ausgangsposition zu führen, wird ihr mehr Schwung mitgegeben, sodass sie sich um 180° gegen den Uhrzeigersinn dreht
+- Anstatt die Frau auf die Ausgängesposition zu führen, wird ihr mehr Schwung mitgegeben, sodass sie sich um 180° gegen den Uhrzeigersinn dreht
     - Mann dreht sich weiterhin um 90° gegen den Uhrzeigersinn
 - Frau steht nun vor dem Mann, beide wiegen nach vorne
 
-## Ausgang
+## Ausgänge
 
 - mit der Rechten die Frau in Grundschritt führen
 - mit der Rechten Frau in Damensolo führen

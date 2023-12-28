@@ -9,7 +9,7 @@
 -   Eine Promedanenwiege nach links (Nun sollte die Linke Hand oben sein)
 -   3 Cha Cha Cha zurück, diesmal dreht sie gegen den Uhrzeigersinn
 
-## Ausgang
+## Ausgänge
 
 -   Nach einer Wiege umgreifen für eine [Spot-Turn](Spot-Turn.md)
 -   Nach einer Rechtswiege die Dame mit der rechten Hand in ein Damensolo führen

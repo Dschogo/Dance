@@ -53,6 +53,9 @@ markdown_extensions:
     - md_in_html
     - toc:
           permalink: "#"
+          slugify: !!python/object/apply:pymdownx.slugs.slugify
+              kwds:
+                  case: none
     - pymdownx.arithmatex:
           generic: true
     - pymdownx.betterem:

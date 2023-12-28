@@ -8,7 +8,7 @@
 - Für die Promenade in die andere Richtung wird nun die linke Hand losgelassen und dafür die rechte Hand durch die Mitte gezogen
 - Die Wiege Schritte gehen wieder gemeinsam nach vorne
 
-## Ausgang
+## Ausgänge
 
 - [Grundschritt](Grundschritt.md) - nach einer Promenade einfach wieder Tanzhaltung schließen/einnehmen
 - [Damensolo](Damensolo.md) - nach der Promenade nach rechts

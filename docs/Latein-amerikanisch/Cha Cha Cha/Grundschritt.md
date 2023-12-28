@@ -38,7 +38,7 @@ Die Abfolge der Schritte ist wie folgt:
 3. Wiegeschritt mit rechts nach hinten (Frau links vorne)
 4. Cha-Cha-Cha nach rechts (Frau nach links)
 
-Nun sind wir wieder in der Ausgangsposition und können die Abfolge wiederholen.
+Nun sind wir wieder in der Ausgängesposition und können die Abfolge wiederholen.
 
 <figure markdown>
   ![img](./assets/grund.png){ loading=lazy }

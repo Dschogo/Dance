@@ -8,7 +8,7 @@
 - Das gleiche zurück wieder aufdrehen
     - Dabei die Frau am Rücken führen
 
-## Ausgang
+## Ausgänge
 
 - Wenn man wieder voreinander steht, Damensolo etc
 - Beim Eindrehen, der Frau mehr Schwung geben, linke Hand über ihrem Kopf, Rechte loslassen, Frau dreht sich um 540° gegen den Uhrzeigersinn, Mann um insg 180° im Uhrzeigersinn
@@ -16,5 +16,5 @@
 ## Variationen
 
 - Rechts-Rechts gehalten
-- Links-Links gehalten (Hand zum Abstoppen, sonst wie 2. Ausgang)
+- Links-Links gehalten (Hand zum Abstoppen, sonst wie 2. Ausgänge)
 - Über Kreuz gehalten (Linke oben)

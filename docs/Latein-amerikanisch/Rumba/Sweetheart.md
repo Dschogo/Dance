@@ -15,7 +15,7 @@ Das Sweetheart ist im Grunde das türksche Handtuch, nur dass die Dame diesmal v
     -   Arm liegt nun im Nacken der Frau
 -   Grundschritt, Mann wiegt nach vorne, Frau wiegt nach hinten
 
-## Ausgang
+## Ausgänge
 
 -   Wenn die Frau links ist, wird die Linke losgelassen
 -   Nach der Linkswiege wird die Dame um 540° im Uhrzeigersinn gedreht
@@ -23,4 +23,4 @@ Das Sweetheart ist im Grunde das türksche Handtuch, nur dass die Dame diesmal v
 -   Wiege nach vorne wie Grundschritt
 
 !!! tip "Tipp"
-    Bei der 540° Ausgangsdrehung der Frau, kann der Mann die Frau wesentlich unterstützen, indem er mit seiner Rechten Hand (Handfläche an Handfläche) Druck ausübt
+    Bei der 540° Ausgängesdrehung der Frau, kann der Mann die Frau wesentlich unterstützen, indem er mit seiner Rechten Hand (Handfläche an Handfläche) Druck ausübt

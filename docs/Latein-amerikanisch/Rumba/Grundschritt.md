@@ -30,7 +30,7 @@ Die Abfolge der Schritte ist wie folgt:
 3. Wiegeschritt mit rechts nach hinten (Frau links vorne)
 4. Seitwärts Schritt nach rechts (Frau nach links)
 
-Nun sind wir wieder in der Ausgangsposition und können die Abfolge wiederholen.
+Nun sind wir wieder in der Ausgängesposition und können die Abfolge wiederholen.
 
 ??? info "Hinweis"
     Achte darauf das deine Tanzhaltung während der gesamten Abfolge erhalten bleibt, ansonsten kann es schwer für die Frau werden Figuren zu erkennen. Außerdem sieht es besser aus :D
