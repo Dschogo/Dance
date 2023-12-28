@@ -93,7 +93,6 @@ plugins:
           enable_creation_date: true
           type: timeago
           enabled: !ENV [CI, false]
-
     - glightbox:
           touchNavigation: true
           loop: false
