@@ -37,25 +37,3 @@
 details[open] > *:not(summary) {
     animation: details-show 150ms ease-in-out;
 }
-
-
-/* frontpage elements */
-.tx-hero h1 {
-    font-size: 2.41rem !important;
-}
-a.md-button.md-button--primary {
-    background-color: var(--md-accent-fg-color);
-    border-color: var(--md-accent-fg-color);
-    color: #ffffff;
-}
-a.md-button.md-button--primary:hover {
-    color: #000000;
-}
-a.md-button.md-button:hover {
-    color: #000000;
-}
-
-/* Site width etc.*/
-.md-grid {
-    max-width: 64rem !important;
-}
