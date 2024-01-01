@@ -10,8 +10,12 @@ theme:
     name: material
     features:
         - toc.follow
+        - content.code.annotate
+        - navigation.prune
+        # - toc.integrate
         - navigation.instant
         - navigation.instant.progress
+        - navigation.instant.prefetch
         - navigation.tabs
         - navigation.indexes
         - navigation.tracking
