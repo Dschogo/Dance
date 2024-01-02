@@ -11,7 +11,6 @@ theme:
     features:
         - toc.follow
         - content.code.annotate
-        - navigation.prune
         # - toc.integrate
         - navigation.instant
         - navigation.instant.progress
