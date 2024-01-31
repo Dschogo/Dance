@@ -38,9 +38,9 @@ details[open] > *:not(summary) {
     animation: details-show 150ms ease-in-out;
 }
 
-body,
+/* body,
 .md-header,
 .md-tabs {
-    /* background change animation fade */
+    background change animation fade  - CAUSES BLINK ON LOAD
     transition: background 0.35s;
-}
+} */
