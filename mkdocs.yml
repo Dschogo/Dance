@@ -7,7 +7,7 @@ site_author: Dschogo
 site_description: Wiki für Tanzfiguren
 
 watch:
-  - gen_pages.py
+    - gen_pages.py
 
 theme:
     name: material

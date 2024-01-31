@@ -11,7 +11,7 @@
 
 ## Ausgänge
 
--   Nach einer Wiege umgreifen für eine [Spot-Turn](Spot-Turn.md)
--   Nach einer Rechtswiege die Dame mit der rechten Hand in ein Damensolo führen
+1.   Nach einer Wiege umgreifen für eine [Spot-Turn](Spot-Turn.md)
+2.   Nach einer Rechtswiege die Dame mit der rechten Hand in ein Damensolo führen
     -   Damit die Frau das kommende Chasse in die richtige Richtung tanzt (für sie links), schiebt der Mann mit der linken Hand die Frau an der Hüfte nach rechts
     -   (Optional) [Caress](Caress.md) mit seiner Rechten

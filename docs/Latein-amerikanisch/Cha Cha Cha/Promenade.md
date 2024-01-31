@@ -10,11 +10,11 @@
 
 ## Ausgänge
 
-- [Grundschritt](Grundschritt.md) - nach einer Promenade einfach wieder Tanzhaltung schließen/einnehmen
-- [Damensolo](Damensolo.md) - nach der Promenade nach rechts
-- [Invertiertes Damensolo](Damensolo.md#invertiertes-damensolo) - nach der Promenade nach links
-- [Spot-Turn](Spot-Turn.md)
-- [Erweiterte Promenade](#erweiterte-promenade)
+1.  [Grundschritt](Grundschritt.md) - nach einer Promenade einfach wieder Tanzhaltung schließen/einnehmen
+2.  [Damensolo](Damensolo.md) - nach der Promenade nach rechts
+3.  [Invertiertes Damensolo](Damensolo.md#invertiertes-damensolo) - nach der Promenade nach links
+4.  [Spot-Turn](Spot-Turn.md)
+5.  [Erweiterte Promenade](#erweiterte-promenade)
 
 ## Erweiterte Promenade
 

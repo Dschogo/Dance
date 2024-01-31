@@ -10,9 +10,9 @@
 
 ## Ausgänge
 
-- [Damen Solo](Damensolo.md)
-- [Promenade](Promenade.md) - nach links, nach dem Cha-Cha-Cha
-- [Spot-Turn](Spot-Turn.md)
+1. [Damen Solo](Damensolo.md)
+2. [Promenade](Promenade.md) - nach links, nach dem Cha-Cha-Cha
+3. [Spot-Turn](Spot-Turn.md)
 
 ??? tip "Tipp"
     Bei den 3 vorwärts/rückwärts Cha-Cha-Cha Schritten kann man die Beine "kreuzen"

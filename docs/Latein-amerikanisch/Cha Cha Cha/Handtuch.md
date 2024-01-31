@@ -16,10 +16,10 @@ Auch türkisches Handtuch genannt.
 
 ## Ausgänge
 
-- Nach einer Wiege auf der rechten Seite, lässt der Mann die linke Hand der Frau los und führt diese, nach dem Chasse, rechts um sich herum (während der linken Wiege).
-- Tanzhaltung wird wieder einnehmen und es folgt ein Chasse nach rechts (für sie wieder nach links)
+1.  
+    - Nach einer Wiege auf der rechten Seite, lässt der Mann die linke Hand der Frau los und führt diese, nach dem Chasse, rechts um sich herum (während der linken Wiege).
+    - Tanzhaltung wird wieder eingenommen und es folgt ein Chasse nach rechts (für sie wieder nach links)
 
 ## Überführung ins Sweetheart
 
-- Anstatt die Frau nur um sich herum zu führen, wir die Frau dabei für sie im Uhrzeigersinn gedreht. Die Frau dreht/"wirbelt" 360°, einmal komplett um ihn herum, sodass sie wieder auf der linken Seite steht.
-- Nun -> [Sweetheart](Sweetheart.md)
+- Anstatt die Frau nur um sich herum zu führen, wir die Frau dabei für sie im Uhrzeigersinn gedreht. Die Frau dreht/"wirbelt" 360°, einmal komplett um ihn herum, sodass sie wieder auf der linken Seite steht. -> [Sweetheart](Sweetheart.md)
