@@ -37,3 +37,10 @@
 details[open] > *:not(summary) {
     animation: details-show 150ms ease-in-out;
 }
+
+body,
+.md-header,
+.md-tabs {
+    /* background change animation fade */
+    transition: background 0.35s;
+}
