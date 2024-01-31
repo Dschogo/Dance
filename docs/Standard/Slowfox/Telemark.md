@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Telemark
+# :fontawesome-solid-hourglass:Telemark

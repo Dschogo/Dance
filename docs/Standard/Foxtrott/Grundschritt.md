@@ -1,4 +1,4 @@
-# :fontawesome-solid-hourglass: Grundschritt
+# :fontawesome-solid-hourglass:Grundschritt
 
 ## Basisbewegung
 

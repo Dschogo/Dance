@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Spaziergang
+# :fontawesome-solid-hourglass:Spaziergang

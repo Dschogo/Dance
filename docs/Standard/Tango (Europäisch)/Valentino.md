@@ -1,3 +1,3 @@
-# :fontawesome-solid-hourglass: Valentino
+# :fontawesome-solid-hourglass:Valentino
 
 Valentino mit kehre

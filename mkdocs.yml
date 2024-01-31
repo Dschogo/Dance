@@ -6,6 +6,9 @@ edit_uri: edit/main/docs/
 site_author: Dschogo
 site_description: Wiki für Tanzfiguren
 
+watch:
+  - gen_pages.py
+
 theme:
     name: material
     features:
@@ -112,9 +115,9 @@ plugins:
           caption_position: bottom
     - minify:
           minify_html: !ENV [CI, false]
-#     - gen-files:
-#           scripts:
-#               - gen_pages.py
+    - gen-files:
+          scripts:
+              - gen_pages.py
 
 extra_css:
     - extra.css

@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Schaufel
+# :fontawesome-solid-hourglass:Schaufel

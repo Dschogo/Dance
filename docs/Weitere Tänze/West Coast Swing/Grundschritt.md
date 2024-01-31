@@ -1,3 +1,3 @@
-# :fontawesome-solid-hourglass: Grundidee
+# :fontawesome-solid-hourglass:Grundidee
 
 ## Grundschritt

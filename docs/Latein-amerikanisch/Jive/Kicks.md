@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Kicks
+# :fontawesome-solid-hourglass:Kicks

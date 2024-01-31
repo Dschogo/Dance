@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Looping
+# :fontawesome-solid-hourglass:Looping

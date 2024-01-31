@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Shoulder To Shoulder
+# :fontawesome-solid-hourglass:Shoulder To Shoulder

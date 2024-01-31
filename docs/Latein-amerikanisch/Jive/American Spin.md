@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: American Spin
+# :fontawesome-solid-hourglass:American Spin

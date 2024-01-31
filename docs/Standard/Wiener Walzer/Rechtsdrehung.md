@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Rechtsdrehung
+# :fontawesome-solid-hourglass:Rechtsdrehung

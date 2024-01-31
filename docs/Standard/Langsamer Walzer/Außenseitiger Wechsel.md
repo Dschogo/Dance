@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Außenseitiger Wechsel
+# :fontawesome-solid-hourglass:Außenseitiger Wechsel

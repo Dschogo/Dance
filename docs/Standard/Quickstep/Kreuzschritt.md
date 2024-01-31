@@ -1,1 +1,1 @@
-# :fontawesome-solid-hourglass: Kreuzschritt
+# :fontawesome-solid-hourglass:Kreuzschritt

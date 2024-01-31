@@ -1,4 +1,4 @@
-# :fontawesome-solid-hourglass: Grundschritt Wischer
+# :fontawesome-solid-hourglass:Grundschritt Wischer
 
 ## Basisbewegung
 
