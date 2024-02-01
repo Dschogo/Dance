@@ -21,7 +21,8 @@ for root, dirs, files in os.walk(root_directory):
         current_dict = current_dict[component]
 
     # Add files to the dictionary
-    current_dict["files"] = files
+    # alpabetically sort files
+    current_dict["files"] = sorted(files)
 
 
 WHITELISTED_FOLDERS = ["Latein-amerikanisch", "Standard", "Weitere Tänze"]
@@ -51,7 +52,7 @@ def sort_dict(d):
         return d
 
 
-# sort dances and files alphabetically
+# # sort dances and files alphabetically
 folder_structure = sort_dict(folder_structure)
 
 
