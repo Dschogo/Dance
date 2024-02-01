@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Welcome
 
 Kleine Dokumentation für Tänze und Figuren.

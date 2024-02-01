@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # wischerdrehungsdingspromenade
 
 ## Schritte

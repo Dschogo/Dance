@@ -8,6 +8,7 @@ site_description: Wiki für Tanzfiguren
 
 watch:
     - gen_pages.py
+    - overrides/
 
 theme:
     name: material
@@ -132,18 +133,18 @@ extra:
     analytics:
         provider: google
         property: G-H65N1ZZBBE
-        feedback:
-            title: War diese Seite hilfreich??
-            ratings:
-                - icon: material/emoticon-happy-outline
-                  name: Ja, hilfreich :D
-                  data: 1
-                  note: >-
-                      Danke für dein Feedback!
-                - icon: material/emoticon-sad-outline
-                  name: Nein, nicht hilfreich :(
-                  data: 0
-                  note: >-
-                      Danke für dein Feedback!
+        # feedback:
+        #     title: War diese Seite hilfreich??
+        #     ratings:
+        #         - icon: material/emoticon-happy-outline
+        #           name: Ja, hilfreich :D
+        #           data: 1
+        #           note: >-
+        #               Danke für dein Feedback!
+        #         - icon: material/emoticon-sad-outline
+        #           name: Nein, nicht hilfreich :(
+        #           data: 0
+        #           note: >-
+        #               Danke für dein Feedback!
 
 copyright: Copyright &copy; 2024 Dschogo

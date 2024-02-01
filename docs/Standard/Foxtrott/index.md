@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Foxtrott
 
 Der Foxtrott ist ein eleganter Gesellschaftstanz, der zu den Standardtänzen zählt. Er entstand zu Beginn des 20. Jahrhunderts und hat seitdem verschiedene Stilvarianten entwickelt, darunter den langsamen Foxtrott und den schnellen Foxtrott. Der Tanz ist für seine fließenden Bewegungen und seine Anpassungsfähigkeit an unterschiedliche Musikgenres bekannt.

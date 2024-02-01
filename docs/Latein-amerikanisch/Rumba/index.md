@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Rumba
 
 Die Rumba ist ein weiterer lateinamerikanischer Tanz, der seinen Ursprung in Kuba hat. Dieser Tanz zeichnet sich durch einen langsamen und sinnlichen Charakter aus und ist Teil des Standardrepertoires in vielen Tanzschulen und Wettbewerben weltweit. Hier sind einige allgemeine Informationen zur Rumba:

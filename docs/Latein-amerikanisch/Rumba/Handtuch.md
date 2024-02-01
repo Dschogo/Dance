@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Handtuch
 
 Die Dame wird "wie ein Handtuch" hinter dem rücken des Herrn geführt. Nach einem Wiegeschritt wechseln die Partner durch einen langen seitwärts Schritt die Seite.

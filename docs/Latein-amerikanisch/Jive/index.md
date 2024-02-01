@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Jive
 
 Der Jive ist ein temperamentvoller Tanz, der zu den lateinamerikanischen Tänzen zählt. Seine Ursprünge liegen in den USA, und er gewann in den 1930er und 1940er Jahren an Popularität. Der Jive fusionierte mit dem Swing und Lindy Hop, um später in den lateinamerikanischen Tanzstil integriert zu werden.

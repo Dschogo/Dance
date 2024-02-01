@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Latein-amerikanisch
 
 Lateinamerikanische Tänze sind eine vielfältige Gruppe von Tänzen, die ihren Ursprung in den verschiedenen Kulturen Lateinamerikas haben. Diese Tänze zeichnen sich durch ihre leidenschaftlichen und rhythmischen Bewegungen aus und sind in der Regel sozialer Natur. Zu den bekanntesten lateinamerikanischen Tänzen gehören Salsa, Merengue, Bachata, Cha-Cha-Cha, Rumba und Samba. Jeder Tanz hat seine eigenen charakteristischen Schritte und Stilelemente, die oft auf historischen, kulturellen und sozialen Einflüssen basieren.

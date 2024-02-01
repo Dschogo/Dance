@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Spot-Turn
 
 ## Schrittfolge

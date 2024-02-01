@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Damensolo
 
 Exakt gleich wie beim Cha-Cha-Cha, nur halt ohne "Cha-Cha-Cha".

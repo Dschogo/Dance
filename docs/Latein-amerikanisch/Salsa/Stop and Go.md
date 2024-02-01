@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Stop and Go
 
 ## Schritte

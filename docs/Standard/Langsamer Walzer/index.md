@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Langsamer Walzer
 
 Der Langsame Walzer ist ein romantischer Gesellschaftstanz, der zu den Standardtänzen gehört. Mit seinen fließenden Bewegungen und anmutigen Drehungen verkörpert er Eleganz und Schwerelosigkeit. Der Langsame Walzer entwickelte sich aus älteren Walzerformen und hat im Laufe der Zeit verschiedene Stile angenommen.

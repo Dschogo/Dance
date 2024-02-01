@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Sweetheart
 
 Das Sweetheart ist im Grunde das türksche Handtuch, nur dass die Dame diesmal vor dem Mann die Seite wechselt. (Und somit die Hände abwechselnd immer im Nacken der Frau liegen)

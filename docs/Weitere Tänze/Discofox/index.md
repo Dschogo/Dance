@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Discofox
 
 Der Discofox ist ein moderner Gesellschaftstanz, der sich in den 1970er Jahren aus dem Foxtrott und anderen Tanzstilen entwickelte. Der Discofox ist vielseitig, einfach zu erlernen und wird aufgrund seiner Anpassungsfähigkeit an verschiedene Musikgenres auf Tanzflächen weltweit getanzt.

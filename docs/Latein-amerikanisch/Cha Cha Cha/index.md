@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Cha Cha Cha
 
 Cha-Cha-Cha ist ein lebhafter kubanischer Tanz, der zu den lateinamerikanischen Tänzen gehört. Ursprünglich entstand der Cha-Cha-Cha in den 1950er Jahren als eine Variation des Mambo und des Danzón, zwei anderen populären kubanischen Tänzen. Der Tanz entwickelte sich weiter und wurde international bekannt, insbesondere in den Vereinigten Staaten und Europa.

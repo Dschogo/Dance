@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Tango Argentino
 
 Der Tango Argentino ist eine leidenschaftliche und ausdrucksstarke Form des Tangos, die in den Straßen und Tanzsalons von Buenos Aires, Argentinien, entstanden ist. Der Tango Argentino hat sich von den traditionellen Wurzeln des argentinischen Tangos entwickelt und ist zu einem international anerkannten Tanzstil geworden.

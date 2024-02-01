@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Hand zu Hand
 
 ## Schritte

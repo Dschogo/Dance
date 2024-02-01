@@ -78,9 +78,11 @@ with mkdocs_gen_files.open("index.md", "w") as f:
                 with open(
                     f"docs/{Class}/{Dance}/{file}", "r", encoding="utf-8"
                 ) as file_content:
-                    file_title = (
-                        file_content.readline().replace("# ", "").replace("\n", "")
-                    )
+                    # file title is the first heading in the file (#)
+                    for line in file_content:
+                        if line.startswith("# "):
+                            file_title = line[2:]
+                            break
 
                 replace += f"""        {"- " if file_index == 0  else ""} [{file_title}]({Class}/{Dance}/{file}){"" if file_index == len(folder_structure[Class][Dance]["files"]) - 1  else ", "} """
             replace += "    \n\n"

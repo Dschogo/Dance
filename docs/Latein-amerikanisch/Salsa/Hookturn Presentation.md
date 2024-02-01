@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Hookturn Presentation
 
 ## Schritte

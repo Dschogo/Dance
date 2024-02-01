@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # :fontawesome-solid-hourglass:3 Wischer
 
 Schritt und dann linker füß rechts neben den rechten stellen(kreuzen)

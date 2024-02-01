@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Salsa
 
 Salsa ist ein mitreißender kubanischer Tanzstil, der sich zu einem weltweit beliebten Phänomen entwickelt hat. Ursprünglich in Kuba entstanden, fand die Salsa in den 1960er Jahren ihren Weg in die USA und verbreitete sich von dort aus über die ganze Welt.

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Wiener Walzer
 
 Der Wiener Walzer ist ein eleganter Gesellschaftstanz, der zu den Standardtänzen gehört. Er hat seinen Ursprung im 18. Jahrhundert und ist eng mit der Musik von Johann Strauss und anderen Komponisten der Wiener Klassik verbunden. Der Wiener Walzer zeichnet sich durch seine schnellen Drehungen und das charakteristische Walzer-Tempo aus.

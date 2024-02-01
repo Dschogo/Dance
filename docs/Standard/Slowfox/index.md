@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Slowfox
 
 Der Slowfox, auch bekannt als langsamer Fuchs, ist ein eleganter Gesellschaftstanz, der zu den Standardtänzen gehört. Dieser Tanz zeichnet sich durch seine fließenden Bewegungen und anspruchsvollen Schritte aus. Der Slowfox entwickelte sich aus dem Foxtrott und hat eine langsame, romantische Atmosphäre.
