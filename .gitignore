@@ -2,6 +2,7 @@
 .env
 .cache/*
 site/*
+sources/*
 Dance.code-workspace
 docs/Dance*
 .timetracker
