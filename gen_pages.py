@@ -52,7 +52,7 @@ def sort_dict(d):
 
 
 # sort dances and files alphabetically
-sorted_dict = sort_dict(folder_structure)
+folder_structure = sort_dict(folder_structure)
 
 
 OriginalFile = open("docs/index.md", "r", encoding="utf-8")
