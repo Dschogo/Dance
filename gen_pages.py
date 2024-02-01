@@ -42,6 +42,19 @@ for Class in folder_structure:
                 folder_structure[Class][Dance]["files"].remove(file)
 
 
+def sort_dict(d):
+    if isinstance(d, dict):
+        return {k: sort_dict(v) for k, v in sorted(d.items())}
+    elif isinstance(d, list):
+        return [sort_dict(item) for item in d]
+    else:
+        return d
+
+
+# sort dances and files alphabetically
+sorted_dict = sort_dict(folder_structure)
+
+
 OriginalFile = open("docs/index.md", "r", encoding="utf-8")
 OriginalContent = OriginalFile.read()
 
@@ -61,8 +74,12 @@ with mkdocs_gen_files.open("index.md", "w") as f:
 
                 # get the title of the file from the first line
                 file_title = ""
-                with open(f"docs/{Class}/{Dance}/{file}", "r", encoding="utf-8") as file_content:
-                    file_title = file_content.readline().replace("# ", "").replace("\n", "")
+                with open(
+                    f"docs/{Class}/{Dance}/{file}", "r", encoding="utf-8"
+                ) as file_content:
+                    file_title = (
+                        file_content.readline().replace("# ", "").replace("\n", "")
+                    )
 
                 replace += f"""        {"- " if file_index == 0  else ""} [{file_title}]({Class}/{Dance}/{file}){"" if file_index == len(folder_structure[Class][Dance]["files"]) - 1  else ", "} """
             replace += "    \n\n"
