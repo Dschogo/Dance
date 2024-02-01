@@ -44,3 +44,4 @@ details[open] > *:not(summary) {
     background change animation fade  - CAUSES BLINK ON LOAD
     transition: background 0.35s;
 } */
+
