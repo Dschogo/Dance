@@ -123,6 +123,7 @@ extra_css:
     - extra.css
 
 extra:
+    disqus: dschogodance
     social:
         - icon: fontawesome/brands/github
           link: https://github.com/Dschogo
