@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# wischerdrehungsdingspromenade
+# Spiraldrehung
 
 ## Schritte
 
