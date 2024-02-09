@@ -45,3 +45,6 @@ details[open] > *:not(summary) {
     transition: background 0.35s;
 } */
 
+.md-header__topic > .md-ellipsis > svg {
+    display: none;
+}
