@@ -48,3 +48,181 @@ details[open] > *:not(summary) {
 .md-header__topic > .md-ellipsis > svg {
     display: none;
 }
+
+/* FROM GADGET */
+[data-md-color-scheme="gb-light"] img.gb-logo {
+    filter: hue-rotate(180deg) invert(1);
+}
+
+img {
+    border-radius: 15px;
+}
+
+/*
+    Extend overall content area.
+*/
+.md-grid {
+    max-width: 1440px;
+}
+
+/*
+    Extends blog post to the edge of the screen.
+*/
+.md-content.md-content--post article {
+    flex-grow: 1;
+}
+
+/*
+    Align emojis & icons with the text.
+*/
+.md-typeset .emojione,
+.md-typeset .gemoji,
+.md-typeset .twemoji {
+    vertical-align: text-bottom;
+}
+
+.md-header__button.md-logo img {
+    border-radius: 0px;
+    /* make the logo fully white */
+    filter: grayscale(100%) brightness(300%);
+}
+
+/*
+    Add margin to end of the content.
+*/
+.md-content__inner.md-typeset {
+    margin-bottom: 5rem;
+}
+
+/*
+    Change checked tasklist color to the primary color.
+*/
+.md-typeset [type="checkbox"]:checked + .task-list-indicator::before {
+    background-color: var(--md-accent-fg-color);
+}
+
+/*
+    Add more margin before each task list item text.
+*/
+.task-list-control > .task-list-indicator {
+    margin-left: 5px;
+}
+
+/*
+    Don't use a tick icon for unchecked task list items.
+*/
+.md-typeset [type="checkbox"]:not(:checked) + .task-list-indicator::before {
+    -webkit-mask-image: none;
+    mask-image: none;
+    border-radius: 50px;
+}
+
+/*  
+    ------------------
+    TABLES
+    ------------------
+*/
+
+.md-typeset table {
+    font-size: 0.7rem !important;
+    border-radius: 15px !important;
+    /*
+    background-color: var(--md-admonition-bg-color) !important;
+    border: none !important;
+    */
+    box-shadow: var(--md-shadow-z2);
+}
+
+/*  
+    ------------------
+    CODE BLOCKS
+    ------------------
+*/
+
+.md-typeset table.highlighttable tr td.linenos {
+    border-radius: 15px 0px 0px 15px;
+    font-size: 0.65rem !important;
+}
+
+.md-typeset table.highlighttable tr td.code div > pre > code {
+    border-radius: 0px 15px 15px 0px;
+}
+
+.md-typeset div > pre > code {
+    border-radius: 15px;
+    font-size: 0.65rem !important;
+}
+
+.md-typeset table.highlighttable tr td.linenos > .linenodiv pre {
+    color: var(--md-default-bg-color--lighter) !important;
+}
+
+.md-tooltip {
+    background-color: var(--md-admonition-bg-color);
+    border-radius: 15px;
+}
+
+.md-annotation__index::after,
+.md-annotation__index::before {
+    height: 2.4ch;
+    width: 2.4ch;
+}
+
+.md-tooltip__inner {
+    font-size: 0.7rem !important;
+}
+
+blockquote {
+    color: var(--md-default-fg-color--lighter) !important;
+    border-left-color: var(--md-default-fg-color--lightest) !important;
+}
+
+/*  
+    ------------------
+    ADMONITON
+    ------------------
+*/
+
+.md-typeset .admonition,
+.md-typeset details {
+    border-width: 1 !important;
+    border-radius: 15px !important;
+    padding: 0 1rem !important;
+    font-size: 0.75rem !important;
+}
+
+.md-typeset .admonition .admonition-title,
+.md-typeset details summary {
+    padding-bottom: 0.6rem !important;
+    padding-top: 0.6rem !important;
+    border-radius: 15px 15px 0px 0px !important;
+    margin: 0 -1rem !important;
+    padding-left: 2.7rem !important;
+    transition: border-radius 0.2s;
+}
+
+.md-typeset .admonition .admonition-title::before,
+.md-typeset details summary::before {
+    left: 0.9rem !important;
+}
+
+.md-typeset details summary::after {
+    right: 0.9rem !important;
+}
+
+.md-typeset .admonition .admonition-title::before,
+.md-typeset details summary::before,
+.md-typeset details summary::after {
+    top: 0.85em !important;
+    height: 25px !important;
+    width: 23px !important;
+}
+
+.md-typeset details:not([open]) summary {
+    border-radius: 15px 15px 15px 15px !important;
+}
+
+.md-typeset .admonition p:nth-of-type(2),
+.md-typeset details p:first-of-type {
+    margin-top: 0.4rem !important;
+}
