@@ -1,6 +1,8 @@
 ---
 comments: true
 ---
-# :fontawesome-solid-hourglass:Paso Basico
+# Paso Básico
 
-Dame beim vorbeigehen kreuzen lassen und Fuß ran
+## Basisbewegung
+
+Der allseits bekannte Grundschritt.
