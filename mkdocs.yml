@@ -130,6 +130,10 @@ extra:
     status:
         new: Recently added
         deprecated: Deprecated
+        unfinished: Unfinished
+        todo: Figur fehlt noch komplett
+        todo2: Grober Text vorhanden
+        todo3: Text / Markdown muss noch überarbeitet werden
     analytics:
         provider: google
         property: G-H65N1ZZBBE

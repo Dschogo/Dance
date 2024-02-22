@@ -1,7 +1,8 @@
 ---
 comments: true
+status: todo
 ---
-# :fontawesome-solid-hourglass:Grundschritt Wischer
+# Grundschritt Wischer
 
 ## Basisbewegung
 

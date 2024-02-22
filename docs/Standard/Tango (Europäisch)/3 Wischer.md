@@ -1,7 +1,8 @@
 ---
 comments: true
+status: todo2
 ---
-# :fontawesome-solid-hourglass:3 Wischer
+# 3 Wischer
 
 Schritt und dann linker füß rechts neben den rechten stellen(kreuzen)
 Dann schrit scgließen seit  kreuzen

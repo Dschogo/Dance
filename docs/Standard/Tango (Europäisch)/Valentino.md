@@ -1,6 +1,9 @@
 ---
 comments: true
+status: todo
 ---
-# :fontawesome-solid-hourglass:Valentino
+# Valentino
 
-Valentino mit kehre
+## Ausgänge
+
+- [Kehre](Kehre.md) (Valentino mit kehre)

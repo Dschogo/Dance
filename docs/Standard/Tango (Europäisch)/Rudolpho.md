@@ -1,7 +1,8 @@
 ---
 comments: true
+status: todo2
 ---
-# :fontawesome-solid-hourglass:Rudolpho
+# Rudolpho
 
 Wiege Rechtsdrehung( vor die frau, wiegeschritt)
 Ronde für die Frau

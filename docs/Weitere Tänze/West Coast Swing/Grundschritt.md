@@ -1,6 +1,7 @@
 ---
 comments: true
+status: todo
 ---
-# :fontawesome-solid-hourglass:Grundidee
+# Grundidee
 
 ## Grundschritt
