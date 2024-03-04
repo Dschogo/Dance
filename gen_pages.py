@@ -85,14 +85,52 @@ with open("docs/extra.css", "r", encoding="utf-8") as f:
 
 with mkdocs_gen_files.open("index.md", "w") as f:
     # replace {{{TOC}}} with the table of contents
-    replace = ""
+    replace = """
+<style>
+.md-typeset .grid {
+    grid-template-columns: repeat(auto-fit,minmax(min(100%,10rem),1fr));
+}
+
+.md-typeset .grid.cards > ol > li, .md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
+    border: unset;
+}
+
+.grid.cards > ul > li > p:nth-child(1) > strong:nth-child(1) > a:nth-child(1) {
+    color: var(--md-default-fg-color);
+}
+
+:root {
+    --md-admonition-icon--dance-toc: url('data:image/svg+xml;charset=utf-8,')
+}
+.md-typeset .admonition.dance-toc,
+.md-typeset details.dance-toc {
+    border-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .dance-toc > .admonition-title,
+.md-typeset .dance-toc > summary {
+    background-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .dance-toc > .admonition-title::before,
+.md-typeset .dance-toc > summary::before {
+    background-color: var(--md-default-fg-color--lightest);
+    -webkit-mask-image: var(--md-admonition-icon--dance-toc);
+            mask-image: var(--md-admonition-icon--dance-toc);
+}
+
+.md-typeset .admonition:focus-within, .md-typeset details:focus-within {
+  box-shadow: unset;
+}
+
+</style>
+"""
     for Class in folder_structure:
-        replace += f"* [{Class}]({Class}/index.md)\n"
-        replace += "    \n"
+        #replace += f"## [{Class}]({Class}/index.md)\n---\n"
+        replace += f'''??? dance-toc "[{Class}]({Class}/index.md)"\n'''
+        replace += """    <div class="grid cards" markdown>\n\n"""
         for Dance in folder_structure[Class]:
             if Dance == "files":
                 continue
-            replace += f"    * [{Dance}]({Class}/{Dance}/index.md)\n\n"
+            replace += f"""    -   __[{Dance}]({Class}/{Dance}/index.md)__\n\n        ---\n\n"""
             # for files in folder_structure[Class][Dance]["files"]:
             for file_index in range(len(folder_structure[Class][Dance]["files"])):
                 file = folder_structure[Class][Dance]["files"][file_index]
@@ -118,8 +156,7 @@ with mkdocs_gen_files.open("index.md", "w") as f:
 
                     file_title = file_title.strip() + " " + page_status.strip()
 
-                replace += f"""        {"- " if file_index == 0  else ""} [{file_title}]({Class}/{Dance}/{file}){"" if file_index == len(folder_structure[Class][Dance]["files"]) - 1  else ", "} """
-            replace += "    \n\n"
-        replace += "    \n\n"
+                replace += f"""        [{file_title}]({Class}/{Dance}/{file})\n\n"""
+        replace += """    </div>\n"""
 
     print(OriginalContent.replace("{{{TOC}}}", replace), file=f)
