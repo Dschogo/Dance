@@ -32,7 +32,8 @@ theme:
         - search.suggest
         - content.action.edit
     icon:
-        logo: material/dance-ballroom
+      logo: material/dance-ballroom
+    favicon: favicon.svg
     palette:
         - media: "(prefers-color-scheme: light)"
           scheme: default

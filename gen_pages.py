@@ -124,8 +124,8 @@ with mkdocs_gen_files.open("index.md", "w") as f:
 </style>
 """
     for Class in folder_structure:
-        #replace += f"## [{Class}]({Class}/index.md)\n---\n"
-        replace += f'''??? dance-toc "[{Class}]({Class}/index.md)"\n'''
+        # replace += f"## [{Class}]({Class}/index.md)\n---\n"
+        replace += f"""??? dance-toc "[{Class}]({Class}/index.md)"\n"""
         replace += """    <div class="grid cards" markdown>\n\n"""
         for Dance in folder_structure[Class]:
             if Dance == "files":
