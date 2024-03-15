@@ -1,13 +1,16 @@
 name: Build Docs
+
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      MKDOCS_GIT_COMMITTERS_APIKEY : ${{secrets.MKDOCS_GIT_COMMITTERS_APIKEY}}
+      MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.MKDOCS_GIT_COMMITTERS_APIKEY }}
     steps:
       - uses: actions/checkout@v3
         with:
@@ -21,4 +24,3 @@ jobs:
           path: .cache
       - run: pip install -r requirements.txt 
       - run: mkdocs gh-deploy --force
-        
