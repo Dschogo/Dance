@@ -1,6 +1,5 @@
 ---
 comments: true
-status: todo2
 ---
 # Paso Básico
 

@@ -4,3 +4,17 @@
     {{ super() }}
     <meta name="google-site-verification" content="bkNvEDwOjQlF8_9ULJ_IFKsY1g1ldWzBOIfvHxco_74" />
 {% endblock %}
+{% block content %}
+{% if page.url_to_print_page %}
+    <!-- <a href="{{ page.url_to_print_page }}" title="Print Site" class="md-content__button md-icon">
+        {% include ".icons/material/printer.svg" %}
+    </a> -->
+{% endif %}
+{% if page.path_to_pdf %}
+    <a href="{{ page.path_to_pdf }}" title="Site PDF" class="md-content__button md-icon">
+        {% include ".icons/material/file-pdf-box.svg" %}
+    </a>
+{% endif %}
+
+{{ super() }}
+{% endblock content %}

@@ -3,7 +3,7 @@ comments: true
 ---
 # Medialuna
 
-*die Mondsichel*
+> *die Mondsichel*
 
 Ein Teil der molinete, der auf dem Boden das Bild des Halbmonds zeichnet. Auch kleine Rechts- bzw. Links-Drehung genannt. Figur die ursprünglich als das Croissant etabliert wurde.
 

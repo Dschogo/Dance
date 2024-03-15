@@ -3,7 +3,7 @@ comments: true
 ---
 # Damensolo
 
-## Schrittfolge
+## Schritte
 
 - Der Mann tanzt durchgehend Grundschritt
 - Bei einem links Cha-Cha-Cha hebt der Mann die linke Hand und lässt die Frau am Rücken (rechts) los

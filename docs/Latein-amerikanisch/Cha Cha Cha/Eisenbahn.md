@@ -3,7 +3,7 @@ comments: true
 ---
 # Eisenbahn
 
-## Schrittfolge
+## Schritte
 
 - Alle vier Hände werden gehalten (Seine Rechte - Ihre Linke, Seine Linke - Ihre Rechte)
 - Nach einer rorwärts Wiege gehen 3 Cha-Cha-Cha Schritte nach hinten

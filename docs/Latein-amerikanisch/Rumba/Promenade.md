@@ -3,7 +3,7 @@ comments: true
 ---
 # Promenade
 
-## Schrittfolge
+## Schritte
 
 - Während eines langen Seitwärtsschritt nach reschts zieht der Mann die linke Hand durch die Mitte (nach rechts) und öffnet somit die Tanzhaltung
 - Der Wiegeschritt wird nun mit offener Tanzhaltung getanzt, also beide in die gleiche Richtung

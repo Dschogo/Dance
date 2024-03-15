@@ -3,7 +3,7 @@ comments: true
 ---
 # Promenade (erweitert)
 
-## Schrittfolge
+## Schritte
 
 - Während eines Cha-Cha-Cha nach rechts zieht der Mann die linke Hand durch die Mitte (nach rechts) und öffnet somit die Tanzhaltung
 - Der Wiegeschritt wird nun mit offener Tanzhaltung getanzt, also beide in die gleiche Richtung

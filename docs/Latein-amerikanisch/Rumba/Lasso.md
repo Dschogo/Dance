@@ -3,7 +3,7 @@ comments: true
 ---
 # Lasso
 
-## Schrittfolge
+## Schritte
 
 - Während eines Grundschritts nach links hebt der Mann die linkes hand wie für ein Damensolo
 - Die rechte hande geht von links an den Rücke der Frau und schiebt diese nach rechts um sich herum

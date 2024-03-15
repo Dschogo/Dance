@@ -5,7 +5,7 @@ comments: true
 
 Exakt gleich wie beim Cha-Cha-Cha, nur halt ohne "Cha-Cha-Cha".
 
-## Schrittfolge
+## Schritte
 
 - Der Mann tanzt durchgehend Grundschritt
 - Bei einem links Cha-Cha-Cha hebt der Mann die linke Hand und lässt die Frau am Rücken (rechts) los
