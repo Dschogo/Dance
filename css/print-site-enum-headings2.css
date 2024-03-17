@@ -11,8 +11,8 @@ print-site:
 */
 
 .print-site-enumerate-headings .print-page h2:before {
-  counter-increment: section;
-  content: counter(chapter) "." counter(section) " " !important;
+  counter-increment: sub-section;
+  content:  " " !important;
 }
 
 /* 
@@ -27,7 +27,7 @@ print-site:
 */
 .print-site-enumerate-headings h2.nav-section-title:before {
     counter-increment: sec-section;
-    content: counter(sec-top, upper-roman) "." counter(sec-section, upper-roman) " " !important;
+    content: counter(chapter) "." counter(sec-section) " " !important;
   }
 
 
@@ -35,12 +35,12 @@ print-site:
 
 .print-site-enumerate-headings .print-site-toc-level-2 > li a:before {
     counter-increment: toc-section; 
-    content: counter(toc-chapter) "." counter(toc-section) " ";
+    content: " ";
 }
 
 /* Enumerate SECTIONS in table of contents also */
 
 .print-site-enumerate-headings li.toc-nav-section-title-level-2:before {
     counter-increment: toc-sec-section; 
-    content: counter(toc-sec-chapter, upper-roman) "." counter(toc-sec-section, upper-roman) " ";
+    content: " ";
 }

@@ -18,8 +18,8 @@ that are part of an original included page */
 .print-site-enumerate-headings .print-page h4 {counter-reset: detail last; }
 .print-site-enumerate-headings .print-page h5 {counter-reset: last; }
 .print-site-enumerate-headings .print-page h1:before {
-    counter-increment: chapter;
-    content: counter(chapter) " " !important;
+    counter-increment: sec-sub-section;
+    content: counter(chapter) "." counter(sec-section) "." counter(sec-sub-section) " " !important;
 }
 .print-site-enumerate-headings h1.print-page-toc-title:before,
 #print-site-cover-page h1:before,
@@ -35,14 +35,14 @@ that are part of an original included page */
 
 /* Enumerate headings of SECTIONS,
 that are part of an original included page */
-.print-site-enumerate-headings h1 {counter-reset: sec-section sec-sub-section sec-composite sec-detail sec-last; }
+.print-site-enumerate-headings h1 {counter-reset: sec-section 1 sec-sub-section sec-composite sec-detail sec-last; }
 .print-site-enumerate-headings h2.nav-section-title {counter-reset: sec-sub-section sec-composite sec-detail sec-last; }
 .print-site-enumerate-headings h3.nav-section-title {counter-reset: sec-composite sec-detail sec-last; }
 .print-site-enumerate-headings h4.nav-section-title {counter-reset: sec-detail sec-last; }
 .print-site-enumerate-headings h5.nav-section-title {counter-reset: sec-last; }
 .print-site-enumerate-headings h1.nav-section-title:before {
-    counter-increment: sec-top;
-    content: counter(sec-top, upper-roman) ". " !important;
+    counter-increment: chapter;
+    content: counter(chapter) " " !important;
 }
 
 
@@ -65,7 +65,7 @@ that are part of an original included page */
 .print-site-enumerate-headings li.toc-nav-section-title-level-5 { counter-reset: toc-sec-last; }
 .print-site-enumerate-headings li.toc-nav-section-title-level-1:before {
     counter-increment: toc-sec-chapter;
-    content: counter(toc-sec-chapter, upper-roman) " "; 
+    content: counter(toc-sec-chapter) " "; 
 }
 
 
