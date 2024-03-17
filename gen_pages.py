@@ -25,7 +25,7 @@ for root, dirs, files in os.walk(root_directory):
     current_dict["files"] = sorted(files)
 
 
-WHITELISTED_FOLDERS = ["Latein-amerikanisch", "Standard", "Weitere Tänze"]
+WHITELISTED_FOLDERS = ["Latein amerikanisch", "Standard", "Weitere Tänze"]
 # remove all folders that are not in the whitelist
 for x in list(folder_structure):
     if x not in WHITELISTED_FOLDERS:

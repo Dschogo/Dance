@@ -8,4 +8,5 @@ pillow
 cairosvg
 mkdocs-git-committers-plugin-2
 mkdocs-gen-files
-mkdocs-print-site-plugin
+# mkdocs-print-site-plugin
+git+https://github.com/Dschogo/mkdocs-print-site-plugin
