@@ -22,5 +22,5 @@ Nutze die Navigation oben (nach "Datum gelernt" und somit ca nach Schwierigkeit 
 
 {{{TOC}}}
 
-Zum Download wird ab und zu ein PDF generiert, das hier verlinkt wird: [Download](assets/Dance.pdf)  
-Alle Tänze auf einer seite findet man hier [Alle Tänze](print_page) [hier Strg+P drücken und als PDF speichern/Drucken - "ACHTUNG" kann verbuggt sein.]
+[^1]: Zum Download wird ab und zu ein PDF generiert, das hier verlinkt wird: [Download](assets/Dance.pdf)  
+[^2]: Alle Tänze auf einer seite findet man [hier](print_page) [hier Strg+P drücken und als PDF speichern/Drucken - "ACHTUNG" links im pdf sind dann unbrauchbar]

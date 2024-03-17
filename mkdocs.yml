@@ -61,10 +61,10 @@ markdown_extensions:
       - footnotes
       - md_in_html
       - toc:
-            permalink: "#"
+            permalink: ⚓︎
             slugify: !!python/object/apply:pymdownx.slugs.slugify
                   kwds:
-                  case: none
+                        case: lower
       - pymdownx.arithmatex:
             generic: true
       - pymdownx.betterem:
