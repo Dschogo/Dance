@@ -5,13 +5,12 @@ comments: true
 
 ## Schritte
 
-- Damensolo
-- Mann Macht 3 Wiegen (Hinten, Seite, Vorne) - also 2 Extra
-- Grundschritt für Beide
-    - Hand immer über Kreuz, wechelnd
-    - Seiten werden durch Grundschritt gewechesl, durch 3 Wiegen des Mannes versetzt
+Wie [Promenade](Promenade.md) nur das statt nach außen bei den Wiegen nach innen geschaut wird. Dafür müssen jeweils die anderen Hände festgehalten werden.
+
+## Timing
+
+Wie Grundschritt
 
 ## Ausgänge
 
-1. Damensolo, wieder mit 3 Wiegen für Mann
-2. Nach einem Cha-Cha-Cha, "loslassen", [Spot-Turn](Spot-Turn.md) für beide, Cha-Cha-Cha aufeinander zu, [Grundschritt](Grundschritt.md)
+Alle Ausgänge der [Promenade](Promenade.md) können genutzt werden.

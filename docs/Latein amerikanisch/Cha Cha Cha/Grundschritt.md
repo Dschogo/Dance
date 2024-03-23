@@ -43,10 +43,7 @@ Die Abfolge der Schritte ist wie folgt:
 
 Nun sind wir wieder in der Ausgängesposition und können die Abfolge wiederholen.
 
-<figure markdown>
-  ![img](./assets/grund.png){ loading=lazy }
-  <figcaption>Aufwand geht, aber unübersichtlich bei größeren Figuren</figcaption>
-</figure>
+{{ youtube_hint("AvwjoSCpdtY", start="3")}}
 
-??? info "Hinweis"
+!!! info "Hinweis"
     Achte darauf das deine Tanzhaltung während der gesamten Abfolge erhalten bleibt, ansonsten kann es schwer für die Frau werden Figuren zu erkennen. Außerdem sieht es besser aus :D

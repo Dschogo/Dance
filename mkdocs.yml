@@ -10,6 +10,7 @@ site_description: Wiki für Tanzfiguren
 watch:
       - gen_pages.py
       - overrides/
+      - main.py
 
 theme:
       name: material
@@ -122,6 +123,7 @@ plugins:
       - gen-files:
             scripts:
                   - gen_pages.py
+      - macros
 
       - print-site:
             add_full_urls: false

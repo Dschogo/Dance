@@ -3,6 +3,8 @@ comments: true
 ---
 # Promenade (erweitert)
 
+> New York to R/L
+
 ## Schritte
 
 - Während eines Cha-Cha-Cha nach rechts zieht der Mann die linke Hand durch die Mitte (nach rechts) und öffnet somit die Tanzhaltung
@@ -10,6 +12,10 @@ comments: true
 - Die Cha-Cha-Cha Schritte werden wieder voreinander getanzt
 - Für die Promenade in die andere Richtung wird nun die linke Hand losgelassen und dafür die rechte Hand durch die Mitte gezogen
 - Die Wiege Schritte gehen wieder gemeinsam nach vorne
+
+## Timing
+
+Wie Grundschritt
 
 ## Ausgänge
 
