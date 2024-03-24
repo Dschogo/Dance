@@ -26,3 +26,5 @@ Auch türkisches Handtuch genannt.
 ## Überführung ins Sweetheart
 
 - Anstatt die Frau nur um sich herum zu führen, wir die Frau dabei für sie im Uhrzeigersinn gedreht. Die Frau dreht/"wirbelt" 360°, einmal komplett um ihn herum, sodass sie wieder auf der linken Seite steht. -> [Sweetheart](Sweetheart.md)
+
+{{ youtube_hint("WEDGv1ErjA4", start="6")}}

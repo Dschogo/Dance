@@ -20,3 +20,5 @@ Da wir uns fast im Grundschritt befinen, können wir eigentlihc alles führen.
 ## Variation
 
 - Der Mann kann auch nach hinten wiegen, die Frau nach vorne
+
+{{ youtube_hint("XlTHn9NDO3U", start="3")}}

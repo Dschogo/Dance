@@ -17,3 +17,5 @@ comments: true
 - [Damensolo](Damensolo.md) - nach der Promenade nach rechts
 - [Invertiertes Damensolo](Damensolo.md#invertiertes-damensolo) - nach der Promenade nach links
 - [Spot-Turn](Spot-Turn.md)
+
+{{ youtube_hint("RMXZzIlHuV0", start="145")}}

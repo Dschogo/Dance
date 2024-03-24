@@ -18,3 +18,5 @@ comments: true
 - Die Frau tanzt nun ein Damensolo (diesmal Linksdrehung)
 - Die Drehung dauert wieder ein Wiegeschritt (vom Mann)
 - Der Cha-Cha-Cha wird wieder zusammen getanzt (Mann nach links, Frau nach rechts)
+
+{{ youtube_hint("tYCcDiedmhM", start="3")}}

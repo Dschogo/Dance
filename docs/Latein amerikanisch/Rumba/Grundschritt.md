@@ -37,3 +37,5 @@ Nun sind wir wieder in der Ausgängesposition und können die Abfolge wiederhole
 
 ??? info "Hinweis"
     Achte darauf das deine Tanzhaltung während der gesamten Abfolge erhalten bleibt, ansonsten kann es schwer für die Frau werden Figuren zu erkennen. Außerdem sieht es besser aus :D
+
+{{ youtube_hint("N8anu7M-Mr8", start="13")}}

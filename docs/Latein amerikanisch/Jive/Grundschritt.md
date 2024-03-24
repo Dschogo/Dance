@@ -1,9 +1,9 @@
 ---
 comments: true
-status: todo
+status: yt
 ---
 # Grundschritt
 
 ## Basisbewegung
 
-Comming soon™️
+{{ youtube_hint("jxrKLPIl_UE", start="14")}}

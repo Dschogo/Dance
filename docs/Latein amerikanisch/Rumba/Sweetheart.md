@@ -27,3 +27,6 @@ Das Sweetheart ist im Grunde das türksche Handtuch, nur dass die Dame diesmal v
 
 !!! tip "Tipp"
     Bei der 540° Ausgängesdrehung der Frau, kann der Mann die Frau wesentlich unterstützen, indem er mit seiner Rechten Hand (Handfläche an Handfläche) Druck ausübt
+
+{{ youtube_hint("iszgn_WEmKE", start="8")}}
+    Note: Während dem Sweetheart wiegt hier der Mann auch nach hinten, dafür wird die fügur dabei immer leciht gedreht. Oben beschrieben wiegt der Mann nach vorne, dabei bleibt die Figur eher auf einer Geraden.

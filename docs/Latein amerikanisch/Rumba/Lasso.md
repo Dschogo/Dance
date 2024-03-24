@@ -10,3 +10,5 @@ comments: true
 - Die linke Hand für die Frau dann einmal um in herum (Uhrzeigersinn)
 - Die Frau hat 6 oder 9 Schritte Zeit um einmal um den Mann herum zu gehen
 - Danach wird die Tanzhaltung wieder geschlossen und der Grundschritt weiter getanzt oder eine andere Figur
+
+{{ youtube_hint("BHP1e-k4BR4", start="5")}}

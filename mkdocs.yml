@@ -149,6 +149,8 @@ extra:
             todo: Figur fehlt noch komplett
             todo2: Grober Text vorhanden
             todo3: Text / Markdown muss noch überarbeitet werden
+            yt: Video verlinked, Text fehlt
+            name: Name fehlt
       analytics:
             provider: google
             property: G-H65N1ZZBBE

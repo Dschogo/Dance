@@ -29,3 +29,5 @@ Auch türkisches Handtuch genannt.
 
 - Anstatt die Frau nur um sich herum zu führen, wir die Frau dabei für sie im Uhrzeigersinn gedreht. Die Frau dreht/"wirbelt" 360°, einmal komplett um ihn herum, sodass sie wieder auf der linken Seite steht.
 - Nun -> [Sweetheart](Sweetheart.md)
+
+{{ youtube_hint("72LrOA6Iu7k", start="200")}}

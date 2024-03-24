@@ -15,4 +15,4 @@ Wie Grundschritt
 
 Alle Ausgänge der [Promenade](Promenade.md) können genutzt werden.
 
-{{ youtube_hint("3SLtAyLs6nA", start="3")}}
+{{ youtube_hint("e-Vbt-jY-Gk", start="8")}}

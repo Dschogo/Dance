@@ -25,9 +25,13 @@ Wie Grundschritt
 4.  [Spot-Turn](Spot-Turn.md)
 5.  [Erweiterte Promenade](#erweiterte-promenade)
 
+{{ youtube_hint("qxb0sBwE2Os", start="3")}}
+
 ## Erweiterte Promenade
 
 - Während einer Promenade zieht der Mann die inneren Hände nach vorne um statt einer Wiege weitere Cha-Cha-Cha nach vorne zu tanzen.
 - Nach der "gezogenen" Promenade folgt ein geschlossener Cha-Cha-Cha zur Seite, die zuvor freien Hände sind dabei Handfläche zu Handfläche
 
 Nun sind wir wieder in der Ausgängesposition und können alle [Ausgänge](#Ausgänge) einer Promenade nutzen.
+
+{{ youtube_hint("fJb8aZIPjOQ", start="3")}}
