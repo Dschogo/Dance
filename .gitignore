@@ -6,3 +6,4 @@ sources/*
 Dance.code-workspace
 docs/Dance*
 .timetracker
+__pycache__/*
