@@ -3,11 +3,8 @@ mkdocs-glightbox
 mkdocs-git-revision-date-localized-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-minify-plugin
-git+https://github.com/Andre601/mkdocs-pagenav-generator
 pillow
 cairosvg
 mkdocs-git-committers-plugin-2
-mkdocs-gen-files
-# mkdocs-print-site-plugin
 git+https://github.com/Dschogo/mkdocs-print-site-plugin
 mkdocs-macros-plugin

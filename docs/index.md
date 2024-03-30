@@ -12,7 +12,7 @@ Nutze die Navigation oben (nach "Datum gelernt" und somit ca nach Schwierigkeit 
 
 ## Alphabetische Liste
 
-{{{TOC}}}
+{{ TOC() }}
 
 !!! tip "Noch in Aufbau"
     Unfertige Seiten sind markiert

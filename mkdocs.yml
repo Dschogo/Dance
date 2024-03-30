@@ -8,7 +8,6 @@ site_description: Wiki für Tanzfiguren
 
 
 watch:
-      - gen_pages.py
       - overrides/
       - main.py
 
@@ -102,7 +101,6 @@ plugins:
       - search
       - awesome-pages:
             filename: .pages.yml
-      #     - pagenav-generator
       - git-revision-date-localized:
             enable_creation_date: true
             type: timeago
@@ -120,20 +118,17 @@ plugins:
             caption_position: bottom
       - minify:
             minify_html: !ENV [CI, false]
-      - gen-files:
-            scripts:
-                  - gen_pages.py
       - macros
-
-      - print-site:
-            add_full_urls: false
-            add_table_of_contents: true
-            toc_title: "Table of Contents"
-            toc_depth: 2
-            enumerate_headings: true
-            add_cover_page: true
-            exclude:
-                  - index.md
+      
+      # - print-site:
+      #       add_full_urls: false
+      #       add_table_of_contents: true
+      #       toc_title: "Table of Contents"
+      #       toc_depth: 2
+      #       enumerate_headings: true
+      #       add_cover_page: true
+      #       exclude:
+      #             - index.md
 
 extra_css:
       - extra.css
