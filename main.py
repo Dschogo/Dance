@@ -11,7 +11,11 @@ def define_env(env):
         """
         Embed a video from a URL
         """
-        return f"""??? youtube_vid "Video"\n    <iframe loading="lazy" class="iframe_16_9" src="//youtube.com/embed/{video_id}?start={start}"></iframe>"""
+        return f"""??? youtube_vid "Video"\n    <iframe loading="lazy" class="iframe_16_9" src="//youtube.com/embed/{video_id}?start={start}" allowfullscreen="allowfullscreen"
+            mozallowfullscreen="mozallowfullscreen" 
+            msallowfullscreen="msallowfullscreen" 
+            oallowfullscreen="oallowfullscreen" 
+            webkitallowfullscreen="webkitallowfullscreen"></iframe>"""
 
     @env.macro
     def TOC():
