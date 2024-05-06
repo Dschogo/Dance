@@ -1,8 +1,7 @@
 ---
 comments: true
-status: name
 ---
-# Name fehlt
+# Umgreifen
 
 ## Schritte
 
