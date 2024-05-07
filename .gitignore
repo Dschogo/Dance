@@ -7,3 +7,5 @@ Dance.code-workspace
 docs/Dance*
 .timetracker
 __pycache__/*
+
+.untracked/*

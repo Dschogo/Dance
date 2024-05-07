@@ -7,7 +7,7 @@ comments: true
 
 - Damensolo
 - Cha cha cha
-- Walks: (langsames Absenken vom Fuß mit Gewichtsverlagerung, zig zag mäßig), einmal links einmal rechts
+- Walks: (langsames Absenken vom Fuß mit Gewichtsverlagerung, Zick Zack mäßig), einmal links einmal rechts
 - Cha cha cha (promenade position)
 - Cucaracha
 - Promenade in andere Richtung mit Rücken an Rücken

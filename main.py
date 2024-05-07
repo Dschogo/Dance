@@ -11,11 +11,37 @@ def define_env(env):
         """
         Embed a video from a URL
         """
-        return f"""??? youtube_vid "Video"\n    <iframe loading="lazy" class="iframe_16_9" src="//youtube.com/embed/{video_id}?start={start}" allowfullscreen="allowfullscreen"
+        return f"""??? youtube_vid "Externe YT-Videos"\n    <iframe loading="lazy" class="iframe_16_9" src="//youtube.com/embed/{video_id}?start={start}" allowfullscreen="allowfullscreen"
             mozallowfullscreen="mozallowfullscreen" 
             msallowfullscreen="msallowfullscreen" 
             oallowfullscreen="oallowfullscreen" 
             webkitallowfullscreen="webkitallowfullscreen"></iframe>"""
+
+    @env.macro
+    def vid(relative_path):
+        """
+        Embed a video from a path, lazy load
+        """
+        # add proccesed site paths
+
+        vids = []
+        output = """??? local_vid "Videos"\n    <div class="grid cards" markdown>\n\n"""
+
+        if isinstance(relative_path, str):
+            vids.append(relative_path)
+        else:
+            vids = relative_path
+        for vid, name in vids:
+            if "assets" in vid:
+                vid_path = f"../{vid}"
+            else:
+                vid_path = f"../assets/{vid}"
+
+            output += f"""    -   __{name}__\n\n        ---\n        <video controls="controls" src="{vid_path}" preload="metadata" class="local_video"></video>\n\n"""
+
+        output += """    </div>"""
+
+        return output
 
     @env.macro
     def TOC():
@@ -93,44 +119,7 @@ def define_env(env):
                             break
 
             # replace {{{TOC}}} with the table of contents
-            replace = """
-<style>
-.md-typeset .grid {
-    grid-template-columns: repeat(auto-fit,minmax(min(100%,10rem),1fr));
-}
-
-.md-typeset .grid.cards > ol > li, .md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
-    border: unset;
-}
-
-.grid.cards > ul > li > p:nth-child(1) > strong:nth-child(1) > a:nth-child(1) {
-    color: var(--md-default-fg-color);
-}
-
-:root {
-    --md-admonition-icon--dance-toc: url('data:image/svg+xml;charset=utf-8,')
-}
-.md-typeset .admonition.dance-toc,
-.md-typeset details.dance-toc {
-    border-color: var(--md-default-fg-color--lightest);
-}
-.md-typeset .dance-toc > .admonition-title,
-.md-typeset .dance-toc > summary {
-    background-color: var(--md-default-fg-color--lightest);
-}
-.md-typeset .dance-toc > .admonition-title::before,
-.md-typeset .dance-toc > summary::before {
-    background-color: var(--md-default-fg-color--lightest);
-    -webkit-mask-image: var(--md-admonition-icon--dance-toc);
-            mask-image: var(--md-admonition-icon--dance-toc);
-}
-
-.md-typeset .admonition:focus-within, .md-typeset details:focus-within {
-box-shadow: unset;
-}
-
-</style>
-"""
+            replace = ""
 
             for Class in folder_structure:
                 # replace += f"## [{Class}]({Class}/index.md)\n---\n"

@@ -1,6 +1,6 @@
 ---
 comments: true
-status: yt
+status: vid
 ---
 # Grundschritt
 

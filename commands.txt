@@ -3,3 +3,18 @@ mkdocs serve --dirtyreload
 mkdocs gh-deploy --force
 
 pip install mkdocs-abs-rel-plugin mkdocs-awesome-pages-plugin mkdocs-gen-files mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin mkdocs-glightbox mkdocs-material mkdocs-material-extensions mkdocs-minify-plugin git+https://github.com/Andre601/mkdocs-pagenav-generator mkdocs-pdf-export-plugin -U
+
+
+
+vids h264 nvenc, slowest 30fps, cq 31 - no audio track
+
+
+
+# macros
+
+{{ vid([
+    ("Rumba - Spaziergang.mp4", "Spaziergang"),
+    ("Rumba - Spaziergang.mp4", "Spaziergang")
+    ])}}
+
+{{ youtube_hint("-vx-ll8ds5U", start="20")}}
