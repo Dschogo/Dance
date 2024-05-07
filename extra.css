@@ -235,7 +235,7 @@ blockquote {
     --md-status: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M304 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zm0 416a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM48 304a48 48 0 1 0 0-96 48 48 0 1 0 0 96zm464-48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM142.9 437A48 48 0 1 0 75 369.1 48 48 0 1 0 142.9 437zm0-294.2A48 48 0 1 0 75 75a48 48 0 1 0 67.9 67.9zM369.1 437A48 48 0 1 0 437 369.1 48 48 0 1 0 369.1 437z"/></svg>');
 }
 
-.md-status--yt {
+.md-status--vid {
     --md-status: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>youtube</title><path d="M10,15L15.19,12L10,9V15M21.56,7.17C21.69,7.64 21.78,8.27 21.84,9.07C21.91,9.87 21.94,10.56 21.94,11.16L22,12C22,14.19 21.84,15.8 21.56,16.83C21.31,17.73 20.73,18.31 19.83,18.56C19.36,18.69 18.5,18.78 17.18,18.84C15.88,18.91 14.69,18.94 13.59,18.94L12,19C7.81,19 5.2,18.84 4.17,18.56C3.27,18.31 2.69,17.73 2.44,16.83C2.31,16.36 2.22,15.73 2.16,14.93C2.09,14.13 2.06,13.44 2.06,12.84L2,12C2,9.81 2.16,8.2 2.44,7.17C2.69,6.27 3.27,5.69 4.17,5.44C4.64,5.31 5.5,5.22 6.82,5.16C8.12,5.09 9.31,5.06 10.41,5.06L12,5C16.19,5 18.8,5.16 19.83,5.44C20.73,5.69 21.31,6.27 21.56,7.17Z" /></svg>');
 }
 
@@ -267,3 +267,65 @@ blockquote {
     -webkit-mask-image: var(--md-admonition-icon--youtube_vid);
     mask-image: var(--md-admonition-icon--youtube_vid);
 }
+
+:root {
+    --md-admonition-icon--local_vid: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 96C0 60.7 28.7 32 64 32H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96zM48 368v32c0 8.8 7.2 16 16 16H96c8.8 0 16-7.2 16-16V368c0-8.8-7.2-16-16-16H64c-8.8 0-16 7.2-16 16zm368-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V368c0-8.8-7.2-16-16-16H416zM48 240v32c0 8.8 7.2 16 16 16H96c8.8 0 16-7.2 16-16V240c0-8.8-7.2-16-16-16H64c-8.8 0-16 7.2-16 16zm368-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V240c0-8.8-7.2-16-16-16H416zM48 112v32c0 8.8 7.2 16 16 16H96c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H64c-8.8 0-16 7.2-16 16zM416 96c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H416zM160 128v64c0 17.7 14.3 32 32 32H320c17.7 0 32-14.3 32-32V128c0-17.7-14.3-32-32-32H192c-17.7 0-32 14.3-32 32zm32 160c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32H320c17.7 0 32-14.3 32-32V320c0-17.7-14.3-32-32-32H192z"/></svg>');
+}
+.md-typeset .admonition.local_vid,
+.md-typeset details.local_vid {
+    border-color: rgb(153, 0, 255);
+}
+.md-typeset .local_vid > .admonition-title,
+.md-typeset .local_vid > summary {
+    background-color: rgba(153, 0, 255, 0.1);
+}
+.md-typeset .local_vid > .admonition-title::before,
+.md-typeset .local_vid > summary::before {
+    background-color: rgb(153, 0, 255);
+    -webkit-mask-image: var(--md-admonition-icon--local_vid);
+    mask-image: var(--md-admonition-icon--local_vid);
+}
+
+
+.local_video {
+    max-height: 50vh;
+}
+
+
+/* for grids */
+
+.md-typeset .grid {
+    grid-template-columns: repeat(auto-fit,minmax(min(100%,10rem),1fr));
+}
+
+.md-typeset .grid.cards > ol > li, .md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
+    border: unset;
+}
+
+.grid.cards > ul > li > p:nth-child(1) > strong:nth-child(1) > a:nth-child(1) {
+    color: var(--md-default-fg-color);
+}
+
+:root {
+    --md-admonition-icon--dance-toc: url('data:image/svg+xml;charset=utf-8,')
+}
+.md-typeset .admonition.dance-toc,
+.md-typeset details.dance-toc {
+    border-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .dance-toc > .admonition-title,
+.md-typeset .dance-toc > summary {
+    background-color: var(--md-default-fg-color--lightest);
+}
+.md-typeset .dance-toc > .admonition-title::before,
+.md-typeset .dance-toc > summary::before {
+    background-color: var(--md-default-fg-color--lightest);
+    -webkit-mask-image: var(--md-admonition-icon--dance-toc);
+            mask-image: var(--md-admonition-icon--dance-toc);
+}
+
+.md-typeset .admonition:focus-within, .md-typeset details:focus-within {
+box-shadow: unset;
+}
+
+/* grids end */
