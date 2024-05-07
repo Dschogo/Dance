@@ -21,7 +21,3 @@ comments: true
     - Hand loslassen
     - zwei mal Botafogos und 4 mal Voltas
     - voltas: vorne kreuzen hinteren absetzten aber nicht belasten anderen fuß auf höhe der zehen absetzten (Sieht etwas wie gehumpel aus)
-
-{{ vid([
-    ("Botafogo aus Rolling Off-In.mp4", "Botafogo aus Rolling Off-In")
-    ])}}

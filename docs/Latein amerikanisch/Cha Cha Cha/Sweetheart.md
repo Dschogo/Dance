@@ -25,8 +25,4 @@ Das Sweetheart ist im Grunde das türksche Handtuch, nur dass die Dame diesmal v
 !!! tip "Tipp"
     Bei der 540° Ausgängesdrehung der Frau, kann der Mann die Frau wesentlich unterstützen, indem er mit seiner Rechten Hand (Handfläche an Handfläche) Druck ausübt
 
-{{ vid([
-    ("Sweetheart-Box.mp4", "Sweetheart-Box Variation")
-    ])}}
-
 {{ youtube_hint("vsut8LzBVNQ", start="92")}}

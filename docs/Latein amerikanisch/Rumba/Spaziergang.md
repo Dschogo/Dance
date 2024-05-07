@@ -18,8 +18,3 @@ comments: true
 - Fencing
 - [Damensolo](Damensolo.md)
 - [Fan](Fan.md)
-
-{{ vid([
-    ("Spaziergang.mp4", "Spaziergang"),
-    ("Spaziergang Fan-Ausgang.mp4", "Fan Ausgang")
-    ])}}
