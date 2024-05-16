@@ -1,6 +1,6 @@
 ---
 comments: true
-status: vid
+status: todo
 ---
 # Zick Zack
 

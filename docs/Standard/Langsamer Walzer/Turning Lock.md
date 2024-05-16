@@ -2,6 +2,6 @@
 comments: true
 status: todo
 ---
-# Telemark
+# Turning Lock (into Oversway)
 
 ## Schritte
