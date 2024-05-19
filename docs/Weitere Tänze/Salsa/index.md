@@ -29,6 +29,6 @@ Die Salsa ist nicht nur ein Tanz, sondern auch eine soziale Aktivität. Tanzschu
 
 ## Haltung
 
-[Siehe Latein-amerikanisch](../index.md#haltung)
+[Siehe Latein-amerikanisch](../../Latein%20amerikanisch/index.md#haltung)
 
 ## Führung
