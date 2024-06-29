@@ -1,6 +1,5 @@
 ---
 comments: true
-status: todo2
 ---
 # Shoulder to Shoulder
 
@@ -24,7 +23,6 @@ Da wir uns fast im Grundschritt befinen, können wir eigentlihc alles führen.
 
 ## Erweiterung
 
-<!-- TODO -->
 - Shoulder to Shoulder into Zig-Zag Kehre mit Cross-Body-Lead Eingang
 
 {{ youtube_hint("-vx-ll8ds5U", start="20")}}

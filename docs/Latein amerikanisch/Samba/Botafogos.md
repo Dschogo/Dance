@@ -5,6 +5,9 @@ comments: true
 
 - Damensolo
 - Kicks in expander Haltung: nach Damensolo mit links nach vorne mit rechts kick, dann zurück und ein ball chance
+
+> Genannt: "Argentine kicks"
+
 - mehrmals wiederholen, seitenwechsel sind auch möglich, füße bleiben dabei gleich
 - Beim ball chance Hände in lockerere haltung (Fernbedienung) wechseln
 - Botafogos: kreuzen mit  rechts links nach außen und davon abstoßen und wieder auf rechts landen
