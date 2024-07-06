@@ -10,8 +10,12 @@ status: todo
 
 ## Offener Telemark mit Rechtsdrehung und Kehre
 
-- coming soon
+- Kehre mit flechten Ende + 2 Schritte für Phrase
 
-## Kurvefederpointpose
+## CurveFeatherPointPose
 
-- coming soon
+- runter hoch chasse zur Seite
+
+## Telemark Chair
+
+- geschlossen wie CurveFeatherPointPose, aufklappen in promenade, Chair, schnell zuklappen, mit schritt um die Frau und Flechtenende
