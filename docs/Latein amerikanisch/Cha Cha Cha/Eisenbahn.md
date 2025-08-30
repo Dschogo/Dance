@@ -6,7 +6,7 @@ comments: true
 ## Schritte
 
 - Alle vier Hände werden gehalten (Seine Rechte - Ihre Linke, Seine Linke - Ihre Rechte)
-- Nach einer rorwärts Wiege gehen 3 Cha-Cha-Cha Schritte nach hinten
+- Nach einer vorwärts Wiege gehen 3 Cha-Cha-Cha Schritte nach hinten
 - Danach kommt eine rückwärts Wiege
 - Nun folgen 3 Cha-Cha-Cha Schritte nach vorne
 - Danach kommt noch eine vorwärts Wiege
