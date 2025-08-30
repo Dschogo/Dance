@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Lockstep into zigzag
 
 ## Schritte

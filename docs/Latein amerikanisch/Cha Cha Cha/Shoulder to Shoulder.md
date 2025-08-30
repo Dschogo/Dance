@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Shoulder to Shoulder
 
 ## Schritte

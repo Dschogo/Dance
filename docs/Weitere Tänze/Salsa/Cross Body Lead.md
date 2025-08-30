@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Cross Body Lead
 
 ## Schritte

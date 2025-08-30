@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Cha Cha Cha
 
 ## Grundschritt

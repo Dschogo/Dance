@@ -1,27 +1,29 @@
 ---
-comments: true
 hide:
   - navigation
   - toc
+help: false
 ---
-# Welcome
 
-Kleine Dokumentation für Tänze und Figuren.
+# Willkommen
 
-Nutze die Navigation oben (nach "Datum gelernt" und somit ca nach Schwierigkeit sortiert), die Suche oder die folgende Liste:
+Dies ist eine kleine Dokumentation für Tänze und deren Figuren.
+
+<!-- Nutze die Navigation oben (nach "Datum hinzugefügt" und somit ca nach Schwierigkeit sortiert), die Suche oder die folgende Liste: -->
+Du kannst direkt über folgende Liste auf die Tänze und Figuren alphabetisch sortiert zugreifen. Auf den Figurenseiten sind die jeweils anderen Figuren sortiert nach Erstelldatum.
 
 ## Alphabetische Liste
 
 {{ TOC() }}
 
-!!! tip "Noch in Aufbau"
+!!! example "Noch im Aufbau"
     Unfertige Seiten sind markiert
 
-    - :fontawesome-regular-hourglass: Noch nicht angefangen
-    - :fontawesome-solid-spinner: Nur grober Aufschrieb / Variation-Erweiterung fehlt
+    - :fontawesome-regular-hourglass: Noch nicht angefangen (Seite ohne jeglichen Inhalt als Platzhalter)
+    - :fontawesome-solid-spinner: Nur grober Aufschrieb / Variation-Erweiterung fehlt (Work in Progress)
     - :material-youtube: Video vorhanden, Text fehlt
 
-    Wer helfen möchte und sich mit Github auskennt, kann gerne Issues/Pull-Requests erstellen.  Quick Edit links sind jeweils auf der Seite rechts oben.  
-    Oder einfach Kommentare zu den Figuren auf der jeweiligen Seite, falls eine Figur fehlt, einfach hier unten kommentieren.
-    
-    PS: wer micht kennt einfach Whatsapp und co.
+
+!!! tip "Hilfe ist gern gesehen"
+    - Über Github: gerne Issues/Pull-Requests erstellen. Quick Edit links sind jeweils auf der Seite rechts oben.  
+    - Über Discord: gern über diesen Server: [Discord Server Link]({{ config.extra.social[0].link }})

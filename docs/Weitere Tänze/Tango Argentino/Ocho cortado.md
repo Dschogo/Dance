@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Ocho cortado
 
 > *die abgebrochene Acht*

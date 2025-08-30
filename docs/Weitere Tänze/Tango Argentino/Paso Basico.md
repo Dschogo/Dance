@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Paso Básico
 
 ## Basisbewegung

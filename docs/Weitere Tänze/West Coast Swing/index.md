@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # West Coast Swing
 
 Der West Coast Swing ist ein vielseitiger Tanz, der sich aus dem Lindy Hop und dem East Coast Swing entwickelt hat. Er gehört zu den Swingtänzen und hat seinen Ursprung in den USA. Der West Coast Swing zeichnet sich durch seine Anpassungsfähigkeit an verschiedene Musikgenres aus, von Blues und R&B bis zu Pop und Hip-Hop.

@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Zick Zack Ronde
 
 ## Schritte

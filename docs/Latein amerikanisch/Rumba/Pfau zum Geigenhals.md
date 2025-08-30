@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Pfau zum Geigenhals
 
 ## Schritte

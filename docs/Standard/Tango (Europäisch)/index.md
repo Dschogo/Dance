@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Tango (europäisch)
 
 Es gibt keinen spezifischen "europäischen Tango", da der Tango in verschiedenen Regionen der Welt, einschließlich Europa, auf unterschiedliche Weisen interpretiert und getanzt wird. Der Tango ist ursprünglich ein argentinischer Tanz, der sich im Laufe der Zeit jedoch international verbreitet hat und in vielen Ländern unterschiedliche Einflüsse angenommen hat.

@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Fan
 
 Wie im Cha-Cha-Cha, nur ohne "Cha-Cha-Cha".

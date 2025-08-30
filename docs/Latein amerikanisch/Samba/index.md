@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Samba
 
 Die Samba ist ein lebendiger brasilianischer Tanz, der eng mit den brasilianischen Karnevalsfeierlichkeiten und der Musiktradition verbunden ist. Dieser Tanzstil hat sich aus afrikanischen, europäischen und indigenen brasilianischen Einflüssen entwickelt und ist ein fester Bestandteil der brasilianischen Kultur.

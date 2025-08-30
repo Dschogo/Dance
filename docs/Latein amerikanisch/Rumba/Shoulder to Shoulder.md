@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Shoulder to Shoulder
 
 Wie beim Cha-Cha-Cha, nur ohne "Cha-Cha-Cha".

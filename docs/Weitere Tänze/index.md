@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Weitere Tänze
 
 - [Discofox](Discofox/index.md)

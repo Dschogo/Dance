@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Pedrospin
 
 ## Schritte

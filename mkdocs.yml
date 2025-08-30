@@ -1,4 +1,4 @@
-site_name: Dance
+site_name: Dance Wiki
 repo_name: dschogo/Dance
 site_url: https://dschogo.github.io/Dance/
 repo_url: https://github.com/Dschogo/Dance
@@ -37,6 +37,7 @@ theme:
     palette:
         - media: "(prefers-color-scheme: light)"
           scheme: default
+          primary: purple
           toggle:
               icon: material/lightbulb
               name: Switch to dark mode
@@ -117,6 +118,9 @@ plugins:
     - minify:
           minify_html: !ENV [CI, false]
     - macros
+    - meta
+    - tags
+    - privacy # downloads all external asssets and puts them here
 
     # - print-site:
     #       add_full_urls: false
@@ -133,8 +137,11 @@ extra_css:
 
 extra:
     social:
+        - icon: fontawesome/brands/discord
+          link: https://discord.gg/Dm9dqEKX47
         - icon: fontawesome/brands/github
           link: https://github.com/Dschogo
+        
     status:
         new: Recently added
         deprecated: Deprecated
@@ -161,4 +168,4 @@ extra:
         #           note: >-
         #               Danke für dein Feedback!
 
-copyright: Copyright &copy; 2024 Dschogo
+copyright: Copyright &copy; 2025 Dschogo

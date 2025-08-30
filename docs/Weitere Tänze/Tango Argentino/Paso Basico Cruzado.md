@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Paso Básico Cruzado
 
 Dame beim vorbeigehen kreuzen lassen und Fuß ran

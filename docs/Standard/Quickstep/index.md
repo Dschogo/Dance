@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Quickstep
 
 Der Quickstep ist ein schwungvoller Gesellschaftstanz, der zu den Standardtänzen gehört. Ursprünglich entwickelte sich dieser Tanz in den 1920er Jahren aus dem Foxtrott und dem Charleston. Der Quickstep zeichnet sich durch schnelle Schrittkombinationen, lebhafte Drehungen und eine fröhliche Atmosphäre aus.

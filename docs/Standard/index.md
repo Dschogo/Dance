@@ -1,6 +1,4 @@
----
-comments: true
----
+
 # Standard
 
 Die Standardtänze sind eine Gruppe von Paartänzen, die sich durch elegante und formelle Bewegungen auszeichnen. Sie umfassen die fünf Tänze Langsamer Walzer, Tango, Wiener Walzer, Foxtrott und Quickstep. Standardtänze werden oft auf Bällen und in Wettbewerben getanzt. Diese Tänze betonen Präzision, Haltung und harmonische Bewegungen zwischen den Tanzpartnern.

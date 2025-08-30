@@ -1,5 +1,4 @@
 ---
-comments: true
 status: todo
 ---
 # 4er Schritt Kehrtwechsel
